@@ -6,12 +6,12 @@ By the end of this tutorial, you'll know the APIs you deal with day-to-day with 
 
 ### While building a little bookkeeping app we'll cover:
 
-Configuring Routes
-Navigating with Link
-Creating Links with active styling
-Using Nested Routes for Layout
-Navigating programmatically
-Using URL params for data loading
-Using URL Search params
-Creating your own behaviors through composition
-Server Rendering
+- Configuring Routes
+- Navigating with Link
+- Creating Links with active styling
+- Using Nested Routes for Layout
+- Navigating programmatically
+- Using URL params for data loading
+- Using URL Search params
+- Creating your own behaviors through composition
+- Server Rendering
