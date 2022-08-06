@@ -4,7 +4,7 @@ React Router is a fully-featured client and server-side routing library for Reac
 
 By the end of this tutorial, you'll know the APIs you deal with day-to-day with React Router. After that, you can dig into some of the other docs to get a deeper understanding.
 
-While building a little bookkeeping app we'll cover:
+### While building a little bookkeeping app we'll cover:
 
 Configuring Routes
 Navigating with Link
