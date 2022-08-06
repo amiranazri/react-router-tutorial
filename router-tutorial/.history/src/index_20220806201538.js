@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { BrowserRouter} from "react-router-dom";
 import {
   BrowserRouter,
   Routes,
@@ -14,11 +15,7 @@ import Invoices from "./routes/invoices";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
-    <Routes>
-      <Route path="/" element={<App />} />
-      <Route path="expenses" element={<Expenses />} />
-      <Route path="invoices" element={<Invoices />} />
-    </Routes>
+    <App />
   </BrowserRouter>
 );
 
